@@ -1,5 +1,5 @@
 from gdeltdoc import GdeltDoc, Filters
-from newspaper import Article
+from newspaper import Article  # pip install newspaper3k
 
 
 f = Filters(
