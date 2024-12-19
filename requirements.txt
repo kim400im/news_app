@@ -1,0 +1,5 @@
+gdeltdoc
+newspaper3k
+openai==0.28
+pymongo
+python_dotenv
