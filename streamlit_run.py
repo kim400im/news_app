@@ -3,7 +3,6 @@ import pandas as pd
 from gdeltdoc import GdeltDoc, Filters
 from newspaper import Article
 import os
-import config
 import openai
 import datetime
 from dotenv import load_dotenv
