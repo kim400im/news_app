@@ -2,6 +2,5 @@ gdeltdoc
 newspaper3k
 openai==0.28
 pymongo
-python_dotenv
+python-dotenv
 lxml
-libxml2-dev libxslt-dev python3-dev
